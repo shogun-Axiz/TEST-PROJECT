@@ -1,4 +1,4 @@
-package servlet;
+package servlet.delete;
 
 import java.io.IOException;
 

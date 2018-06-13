@@ -1,4 +1,4 @@
-package servlet;
+package servlet.select;
 
 import java.io.IOException;
 import java.util.List;
