@@ -13,8 +13,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/pleiades/workspace/0531_ensyu/WebContent/WEB-INF/lib/postgresql-42.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/pleiades/workspace/0531_ensyu/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/pleiades/workspace/0531_ensyu/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
